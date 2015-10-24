@@ -1,0 +1,11 @@
+word1
+definition1
+
+word2
+try
+
+word4
+definition4
+
+cat
+a cute animal
