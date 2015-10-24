@@ -18,6 +18,16 @@ SYSU-Distributed-Computing
 │   └── hello.py
 └── week5
     ├── Readme.md
-    └── cgi-bin
-        └── hello_cgi.py
+    ├── task1
+    │   └── cgi-bin
+    │       └── hello_cgi.py
+    ├── task2
+    │   ├── Tornado_apps_on_WSGI_servers.py
+    │   ├── WSGI_apps_on_Tornado_servers.py
+    │   ├── hello_wsgi.py
+    │   └── server.py
+    └── task3
+        ├── Readme.md
+        ├── dict.py
+        └── dict.txt
 ```
