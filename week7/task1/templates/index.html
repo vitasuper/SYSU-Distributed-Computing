@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Welcome Back!</title>
+    </head>
+    <body>
+        <h1>Welcome back, {{ user }}</h1>
+        <form action="/logout" method="POST">
+        	{% raw xsrf_form_html() %}
+            <input type="submit" value="Log Out" />
+        </form>
+    </body>
+</html>
